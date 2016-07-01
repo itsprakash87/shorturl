@@ -1,0 +1,43 @@
+body{
+	margin: 0;
+}
+
+h1{
+	color: black;
+}
+.well{
+	border-radius: 0px;
+}
+.container label{
+	font-weight: 100;
+}
+.center{
+	text-align: center;
+}
+
+.header{
+	padding: 30px 10px;
+}
+
+.header a{
+	text-decoration: none;
+}
+
+.convert{
+	padding: 5px 15%;
+	border-bottom: 1px solid #F0E0F0;
+}
+
+.login, .register{
+	padding: 10px 15px;
+}
+
+.footer{
+	padding: 15px 10px;
+	margin-bottom: 0px;
+}
+
+.footer label{
+	font-weight: 400;
+}
+

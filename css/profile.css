@@ -1,0 +1,41 @@
+body{
+	margin: 0;
+}
+
+h1{
+	color: black;
+}
+
+.well{
+	border-radius: 0px;
+}
+.container label{
+	font-weight: 100;
+}
+.center{
+	text-align: center;
+}
+
+.header{
+	padding: 30px 10px;
+}
+
+.header a{
+	text-decoration: none;
+}
+
+.convert{
+	padding: 5px 15%;
+}
+
+.content{
+	min-height: 70%;
+}
+.footer{
+	padding: 15px 10px;
+	margin-bottom: 0px;
+}
+
+.footer label{
+	font-weight: 400;
+}
